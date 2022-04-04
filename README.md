@@ -1,2 +1,2 @@
 # KrishneshResumeWebsite
-This is my resume in form of a website hosted Locally .
+This is my resume in form of a website hosted on github .
